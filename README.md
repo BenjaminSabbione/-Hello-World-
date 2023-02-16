@@ -6,7 +6,7 @@
 GitHub for Benjamin Sabbione
 
 ## How to run a program 
-In order to run a program you must use certin files 
+In order to run a program you must use certin files, GitHub provides you with a certin few during the introduction
 - github
 - images
 - gitignore
@@ -16,5 +16,5 @@ In order to run a program you must use certin files
 ## Description 
 _The GitHub account of Benjamin Sabbione made with professional development for analytics and used for a multitude of other professioanl instances_
 
-## Files Used 
+## 
 
