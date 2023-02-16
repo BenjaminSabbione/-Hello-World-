@@ -17,5 +17,5 @@ In order to run a program you must use certin files, GitHub provides you with a 
 _The GitHub account of Benjamin Sabbione made with professional development for analytics and used for a multitude of other important instances_
 
 ## Files Used 
--No files were used at this time-
+No files were used at this time
 
